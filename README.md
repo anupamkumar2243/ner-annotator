@@ -57,3 +57,9 @@ pip install pytesseract
  </pre>
  app.py :- In this file, it contains all the libraries and function which are used to upload image and run the pytesseract and save into the json format.
  
+ ![Screenshot from 2022-06-21 16-06-37](https://user-images.githubusercontent.com/37176796/174780615-7dc53819-5bfc-4fa1-838b-1bf185f4b119.png)
+ 
+![Screenshot from 2022-06-21 12-44-46](https://user-images.githubusercontent.com/37176796/174780638-80d220d2-b221-44a7-bc7f-dab5acba2193.png)
+
+
+ 
