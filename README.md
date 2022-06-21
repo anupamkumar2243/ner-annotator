@@ -55,5 +55,5 @@ pip install pytesseract
     ├── scanner.html
     
  </pre>
- **app.py :-** In this file, it contains all the libraries and function which are used to upload image and run the pytesseract and save into the json format.
+ app.py :- In this file, it contains all the libraries and function which are used to upload image and run the pytesseract and save into the json format.
  
